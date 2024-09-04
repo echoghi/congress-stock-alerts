@@ -1,7 +1,7 @@
 # .env file
 
 # Replace with any politician page from quiverquant.com
-URL="https://www.quiverquant.com/congresstrading/politician/Daniel%20Meuser-M001204"
+URL="https://www.quiverquant.com/congresstrading/politician/Nancy%20Pelosi-P000197"
 
 # Your email details
 EMAIL_TO=me@me.com

@@ -1,0 +1,12 @@
+# .env file
+
+# Replace with any politician page from quiverquant.com
+URL="https://www.quiverquant.com/congresstrading/politician/Daniel%20Meuser-M001204"
+
+# Your email details
+EMAIL_TO=me@me.com
+EMAIL_FROM=your_email@gmail.com  # Replace with your email
+EMAIL_PASSWORD=your_app_password  # Replace with your app password
+
+# File to store the latest trade data
+JSON_FILE=latest_trade.json
